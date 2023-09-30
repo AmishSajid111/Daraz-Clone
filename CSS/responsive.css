@@ -1,0 +1,46 @@
+@media screen and (max-width:1000px) {
+    header
+    {
+        flex-direction: column;
+        height: 133px;
+        margin: -6px;
+        width: 102vw;
+    }
+    .logo
+    {
+        padding: 12px;
+    }
+    nav {
+        padding: 6px 0px;
+    }
+    .icon
+    {
+        
+margin: 2px -36px;
+
+height: 31px;
+width: 34px;
+    }
+    .cards{
+        overflow: scroll;
+    }
+    .card-items
+    {
+        width: 58vw;
+padding: 12px;
+    }
+    .card-items img:hover{
+        height: 10vw;
+    }
+    .slider img
+    {
+        padding: 5px 0px;
+        height: 124px;
+        width:82vw;
+    }
+    footer {
+       
+        width: 102vw;
+       
+    };
+}

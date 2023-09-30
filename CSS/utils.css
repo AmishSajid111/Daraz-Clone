@@ -1,0 +1,26 @@
+.text-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .icon
+{
+ 
+    position: absolute;
+    margin: 2px -62px;
+    background-color:#ff6c00;
+    height: 31px;
+    width: 60px;
+}
+
+.my-2
+{
+   margin:16px 0px; 
+
+}
+.lines
+{
+    font-size: 13px;
+    text-align: center;
+}
